@@ -1,0 +1,19 @@
+name: nbs
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - matplotlib
+  - numpy
+  - scipy
+  - netcdf4
+  - libnetcdf=4.9.1
+  - xarray
+  - dask
+  - bottleneck
+  - cartopy
+  - pip
+  - yaml
+  - cmocean
+  - jupyterlab
+  - pytest
